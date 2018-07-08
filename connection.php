@@ -3,6 +3,7 @@
 Class dbObj{
  /* Database connection start */
  var $servername = "localhost";
+  var $servernjjame = "localhost";
  var $username = "root";
  var $password = "";
  var $dbname = "testapi";
