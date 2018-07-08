@@ -1,4 +1,5 @@
-<?php  
+<?php 
+cool masterhai 
 // Connect to database
  include("../connection.php");
  $db = new dbObj();
