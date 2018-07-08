@@ -1,6 +1,7 @@
 <?php 
 cool masterhai 
 // Connect to database
+COOL Brnachhai
  include("../connection.php");
  $db = new dbObj();
  $connection =  $db->getConnstring();
